@@ -43,3 +43,41 @@ It could also be interesting to compare our results to actual numbers to see how
 **PRO**: We don't need to actually gather any data, as we will generate it from the simulations. 
 
 **CON**: This will require a significant amount of coding (for the simulation) that is not directly related to the visualization
+
+## Jakob
+
+##Idea 3: See if any correlation between weather and development of covid-19
+Initial hypothesis: when weather is nice people will go out more and therefore 
+more people get infected. Maybe we can observe an increase around roughly 5 days after nice days,
+because that's the incubation time.
+
+Primarly was thinking of scandinavia, with the thought that they have rarly nice weather.
+Would be possible to see if any linkage between weather other places as well.
+I.e could we compare how the spreading is related to the average temperature of the place
+Maybe difficult given that so many other factors....  
+
+
+Pro: Should be possible to get data-sets and compare if this is happening in Scandinavia,
+and then if it's observed other places as well.
+
+Con: Maybe to narrow, difficult to generalize and "prove" any sort of correlation.
+
+
+
+
+###Idea 4: See if any correlation between stock marked pandemic at the initial stage of development.
+Background: https://www.npr.org/2020/03/31/824958381/justice-department-looking-into-senators-stock-selloff?t=1585931442189
+
+In the early development of the covid19, before global crisis was announced in meadia, 
+people with inside information sold their stocks resulting in a stock decline before the general
+public was informed.
+
+Therefore it could be interesting to compare the stock market with the measures taken by different goverments.
+More specifically looking at how big companies stock development compared to the dates where the respective
+goverments announced national crisis and took drastic measures. Hopefully we could observe a decline in the
+stock marked a couple of days before the measures taken, then followed by increased infected people.
+Could also be combined with other data about economics. 
+
+Pro: Interesting. Easy to get stock-development of big companies. 
+
+Con: Difficult to show an actual correlation.
