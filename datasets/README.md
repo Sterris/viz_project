@@ -5,7 +5,15 @@
 
 ### Idea 1: compare the response of governments to the outbreak across the globe.
 
+**Focus on Europe**
+
 On the one hand, I think it would be interesting to see and show how various indicators influence response to the outbreak: 
+
+**Corruption Index, Political System, Type of Government, GDP, Religion, Debt, Healthcare system, Number of cases and timeline, ages of infected individuals, weather, population distribution (ages of general population), funding pledged to stop COVID-19.**
+
+**GDP and public debt compared with how much funding has been pledge to stop COVID-19**
+**Number of cases before an individual government put the country in lockdown. (Bubble plot, y = no of cases, x = date, colour = country)**
+**Heat map movie showing evolution of cases over time**
 
 * Corruption index
 * Political system (democracy VS totalitarian)
@@ -21,6 +29,10 @@ And also, it would be interesting to see if we can find links between adopted me
 **PRO**: Most of the data should be quite easy to come by, as it's quite easy to find out the answer to most of these questions. 
 
 **CON**: It will likely require a decent amount of manual work, since it's unlikely that we will just find readymade datasets containing the data we need.
+
+**You will also need to find some continuous data to go with this like ages, number of cases, geographical data**
+
+**Try and match the visualisations you want to create with visualisations we have done in the exercises**
 
 ### Idea 2: Similar to the above, but instead of analyzing existing data, make some simulations and analyze the effects of different measures on the outcomes of the outbreak
 
