@@ -9,10 +9,14 @@
 
 On the one hand, I think it would be interesting to see and show how various indicators influence response to the outbreak: 
 
-**Corruption Index, Political System, Type of Government, GDP, Religion, Debt, Healthcare system, Number of cases and timeline, ages of infected individuals, weather, population distribution (ages of general population), funding pledged to stop COVID-19.**
+**Corruption Index, Political System, Type of Government, GDP, Religion, Debt, Healthcare system, Number of cases and timeline, ages of infected individuals, weather, population distribution (ages of general population), funding pledged to stop COVID-19**
 
-**GDP and public debt compared with how much funding has been pledge to stop COVID-19**
-**Number of cases before an individual government put the country in lockdown. (Bubble plot, y = no of cases, x = date, colour = country)**
+**Unemployment rate over time and no. of cases**
+
+**GDP and public debt compared with how much funding has been pledged to stop COVID-19**
+
+**Number of cases before an individual government put the country in lockdown. (Similar to interactive histogram but with bubbles. Bubble plot, y = no of cases, x = date, colour = country)**
+
 **Heat map movie showing evolution of cases over time**
 
 * Corruption index
