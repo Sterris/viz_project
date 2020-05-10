@@ -12,3 +12,5 @@ git commit -m "Update index"
 
 git push
 
+open index.html
+
